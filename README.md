@@ -2,4 +2,5 @@
 
 First contributions updated!!!
 - [Abhijeet Mohapatra](https://github.com/abhiwin2010) was here! ;)
- Aniket bhi aaya tha.
+- [Kuldeep Kumar](https://github.com/k2kuldeep) followed Abhijeet here!
+- Aniket bhi aaya tha.
