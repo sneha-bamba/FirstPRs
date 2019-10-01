@@ -12,3 +12,4 @@ First contributions updated!!!
 
 ### 2019
 - Vipul is here
+- [Deepesh Baid](https://github.com/deepeshbaid) was here :wink:
